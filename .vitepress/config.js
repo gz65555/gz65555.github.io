@@ -5,10 +5,10 @@ import { getPosts } from './theme/serverUtils'
 const pageSize = 10
 
 export default defineConfig({
-    title: 'vitepress',
+    title: 'gz65555',
     base: '/',
     cacheDir: './node_modules/vitepress_cache',
-    description: 'vitepress,blog,blog-theme',
+    description: 'A simple blog',
     ignoreDeadLinks: true,
     themeConfig: {
         posts: await getPosts(pageSize),
