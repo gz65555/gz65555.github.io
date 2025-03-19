@@ -93,4 +93,21 @@ Neutral vowels 也叫 relax vowels，发音时舌头比较放松，舌头通常�
 -   Cop - cup
 -   Not - nut
 -   Robber - rubber
--
+
+### 句子对比
+
+/ ɑː / 的句子：
+
+- The modern novel is very popular.
+- Tom will watch hockey with his father.
+- John will probably study biology in college.
+- I will not bother to respond to Tom's offer.
+- If you gossip about your boss, you might lose your job.
+
+/ə/ 的句子： 
+
+- We must discuss this with the other judge
+- My buddy Doug is a wonderful drummer
+- On Mondays he plays the drums in that club
+- On Sunday I had duck for lunch with my cousin
+- He doesn't study much and he loves to have fun
